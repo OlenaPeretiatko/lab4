@@ -1,6 +1,6 @@
 # Flask Project
 
-Flask Project is the project to deploy basic flask app to the server for lab4.
+Flask project for learning backend on Python
 
 ## Installation
 
