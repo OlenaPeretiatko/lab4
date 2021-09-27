@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "flask_project"
+version = "0.1.0"
+description = "flask project for applied programming class"
+authors = ["Olena Peretiatko <olena.peretiatko.knm.2020@lpnu.ua>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Flask = "2.0.1"
+gunicorn = "20.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
